@@ -62,6 +62,20 @@ body {
     color: #c5c5c5;
 }
 
+.about a, .action {
+    color: #22a5ff;
+    text-decoration: none;
+}
+
+.about a:hover, .action:hover {
+    text-decoration: underline;
+}
+
+.cc {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 .footer {
     position: fixed;
     left: var(--page-margin);
